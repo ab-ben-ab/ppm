@@ -1,4 +1,4 @@
-# A Simple cli password manager in python
+A Simple cli password manager in python
 Passwords are saved in a sec.txt file then encrypted using AES in a .enc file.
 
 # Arguments: 
